@@ -1,0 +1,27 @@
+body {
+    background-color:#DAC9A6;
+}
+.header {
+    width: 100%;
+    padding: 28px 0 10px;
+    background-color: #E2943B;
+}
+.logo {
+    margin: 0 auto;
+    overflow: hidden;
+}
+.wrapper {
+    width: 970 px;
+    margin: 30px auto 40px;
+}
+.main {
+    display: block;
+    float: left;
+    width: 100%;
+}
+.footer {
+    width: 100%;
+}
+.title {
+    font-family: monospace;
+}
